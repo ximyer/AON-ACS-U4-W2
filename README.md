@@ -11,16 +11,18 @@ Students will learn various ways to use surrounding pixels to calculate the valu
 
 ## Final Results 🖼️
 
-Original Image:
+Original Image: 
+
 ![Original](/lesmis.jpeg)
 
 Result 1 - Blured: 
+
 ![Result 1](/blured-lesmis.jpeg)
 
 Result 2 - Floyd Steinberg: 
+
 ![Result 2](/floste-lesmis.jpeg)
 
----
 
 ## Sources Consulted 🔍
 
